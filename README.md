@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!-<h1 align="center">Hi 👋, I'm Meenu S Nair</h1>
+<h1 align="center">Hi 👋, I'm Meenu S Nair</h1>
 <h3 align="center">A passionate cybersecurity enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenus1&label=Profile%20views&color=0e75b6&style=flat" alt="meenus1" /> </p>
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **OneSafe: All Your Cybersecurity Tools in One Place**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **ethical hacking, blockchain security & building a full-stack security toolkit**
 
 - 📫 How to reach me **meenusnair692@gmail.com**
 
@@ -34,4 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meenus1&show_icons=true&locale=en" alt="meenus1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meenus1&" alt="meenus1" /></p>
--
+
